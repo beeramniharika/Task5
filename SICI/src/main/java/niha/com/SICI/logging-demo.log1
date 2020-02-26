@@ -1,0 +1,5 @@
+2020-35-23 09:35:58 DEBUG App:21 - Enter Principal Amount:
+2020-36-23 09:36:29 INFO  App:23 - Enter Time:
+2020-36-23 09:36:30 ERROR App:25 - Enter Rate:
+2020-36-23 09:36:30 WARN  App:28 - Simple Interest is 12000.0
+2020-36-23 09:36:30 FATAL App:30 - Compound Interest is 312120.0
