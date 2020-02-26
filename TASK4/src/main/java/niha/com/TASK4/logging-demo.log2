@@ -1,0 +1,4 @@
+2020-10-25 09:10:07 DEBUG Construct:17 - Enter material type:Standard/Above Standard/High Standard:
+2020-10-25 09:10:18 INFO  Construct:20 - Enter total area of house in yards:
+2020-10-25 09:10:22 ERROR Construct:22 - Enter fully automated home or not:Yes/No
+2020-10-25 09:10:25 FATAL Construct:39 - 720000
